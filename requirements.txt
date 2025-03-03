@@ -1,0 +1,6 @@
+opencv-python
+pdfplumber
+easyocr
+pandas
+numpy
+jsonschema
